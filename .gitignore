@@ -1,0 +1,20 @@
+# Basura de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Copias y temporales
+*.bak
+*.orig
+*.tmp
+.backup-*
+*~
+
+# Entornos locales
+venv/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.env

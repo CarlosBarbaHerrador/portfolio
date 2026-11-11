@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio-carlos-barba-herrador.duckdns.org/sitemap.xml
